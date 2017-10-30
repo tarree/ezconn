@@ -6,7 +6,7 @@ Connection manager with proxy and user-agent written in go
 You need go 1.7+
 
 ```bash
-go get github.com/arsham/ezconn/...
+go get github.com/tarree/ezconn/...
 ```
 
 ### For developers
