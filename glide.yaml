@@ -1,4 +1,4 @@
-package: github.com/arsham/ezconn
+package: github.com/tarree/ezconn
 import:
 - package: github.com/Sirupsen/logrus
   version: ^0.11.0

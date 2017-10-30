@@ -10,7 +10,7 @@ import (
 	"os"
 
 	"github.com/Sirupsen/logrus"
-	"github.com/arsham/ezconn/lib"
+	"github.com/tarree/ezconn/lib"
 )
 
 // Conf can be passed to NewClient for customizing the Client. (See helpers.go)

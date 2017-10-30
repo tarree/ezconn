@@ -9,8 +9,8 @@ import (
 
 	"github.com/namsral/flag"
 
-	"github.com/arsham/ezconn/connection"
-	"github.com/arsham/ezconn/lib"
+	"github.com/tarree/ezconn/connection"
+	"github.com/tarree/ezconn/lib"
 )
 
 func main() {
