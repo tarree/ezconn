@@ -1,0 +1,8 @@
+package: github.com/arsham/ezconn
+import:
+- package: github.com/Sirupsen/logrus
+  version: ^0.11.0
+- package: github.com/namsral/flag
+- package: golang.org/x/net
+  subpackages:
+  - proxy
